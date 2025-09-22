@@ -4,7 +4,7 @@
  */
 package studentlist;
 
-/** entity 
+/** entity this is branch code 
  *
  * @author sivagamasrinivasan
  */
