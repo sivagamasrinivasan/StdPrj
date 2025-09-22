@@ -10,6 +10,7 @@ package studentlist;
  */
 public class PartTimeStudent {
     private int sid;
+    private int numofhrs;
 
     /**
      * @return the sid
